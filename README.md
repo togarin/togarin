@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ilya Baryshev! <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50"></h2>
-<p><em>Junior Frontend developer (trying to be)</em></p>
+<p><em>Frontend developer</em></p>
 
 ```javascript
 const togarin = {
