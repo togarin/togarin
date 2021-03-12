@@ -4,14 +4,14 @@
 ```javascript
 const togarin = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Material-UI, Styled-Components],
-  jobStatus: [
-                          { "free":true },
-                          { "inSearch": true },
-                          ],
-  studies: {
-                        course: "profession Frontend developer",
-                        location: "Skillbox Online University",
-                      },
+  tools:  [React, Redux, Node, Material-UI, Styled-Components],
+  jobStatus:  [
+               { "free":true },
+               { "inSearch": true },
+              ],
+  studies:  {
+            course: "profession Frontend developer",
+            location: "Skillbox Online University",
+            },
 }
 ```
