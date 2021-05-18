@@ -3,11 +3,11 @@
 
 ```javascript
 const togarin = {
-  code: [Javascript, HTML, CSS],
-  tools:  [React, Redux, Node, Material-UI, Styled-Components],
+  code: [TypeScript, Javascript, HTML, CSS],
+  tools:  [React, Mobx, Redux, Node, Material-UI, Styled-Components],
   jobStatus:  [
-               { "free":true },
-               { "inSearch": true },
+               { "free":false },
+               { "inSearch": false },
               ],
   studies:  {
             course: "profession Frontend developer",
