@@ -6,8 +6,8 @@ const togarin = {
   code: [TypeScript, Javascript, HTML, CSS],
   tools:  [React, Mobx, Redux, Node, Material-UI, Styled-Components],
   jobStatus:  [
-               { "free":false },
-               { "inSearch": false },
+               { "free":true },
+               { "inSearch": true },
               ],
   studies:  {
             course: "profession Frontend developer",
