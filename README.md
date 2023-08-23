@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ilya Baryshev! <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Illbarry! <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50"></h2>
 <p><em>Frontend developer</em></p>
 
 ```javascript
